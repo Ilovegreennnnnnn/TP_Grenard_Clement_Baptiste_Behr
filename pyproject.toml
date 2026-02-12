@@ -1,0 +1,13 @@
+[project]
+name = "tp-grenard-clement-baptiste-behr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "groq>=1.0.0",
+    "langfuse>=3.14.1",
+    "litellm>=1.81.10",
+    "python-dotenv>=1.2.1",
+    "smolagents>=1.24.0",
+]
